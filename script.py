@@ -69,3 +69,4 @@
 # fix 3100
 # refactor 9783
 # fix 8792
+# fix 2492
