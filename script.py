@@ -64,3 +64,4 @@
 # fix 3793
 # refactor 8675
 # fix 7167
+# fix 1760
