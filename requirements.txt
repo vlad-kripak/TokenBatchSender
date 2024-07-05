@@ -19,3 +19,4 @@ aiohttp==2.5.5
 aiohttp==0.0.9
 web3==1.2.4
 requests==1.5.8
+requests==2.9.4
