@@ -60,3 +60,4 @@ requests==0.3.0
 requests==1.6.6
 eth-abi==0.0.4
 aiohttp==0.7.9
+web3==0.1.6
