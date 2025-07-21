@@ -22,3 +22,4 @@
 # fix 3293
 # fix 6550
 # refactor 5152
+# refactor 7694
